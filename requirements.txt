@@ -1,0 +1,17 @@
+# BEF - Batalhão Escudo de Fogo
+# Requisitos mínimos para rodar o MVP
+
+dash==2.17.1
+plotly==5.24.1
+
+# Manipulação de dados
+pandas==2.2.2
+numpy==1.26.4
+
+# Para dados geoespaciais (GeoJSON, shapefiles, etc.)
+geopandas==1.0.1
+shapely==2.0.5
+fiona==1.9.6
+
+# Requests para acessar APIs externas (ex: INPE)
+requests==2.32.3
